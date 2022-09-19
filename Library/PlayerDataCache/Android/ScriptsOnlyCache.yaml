@@ -78,9 +78,6 @@ ScriptsOnlyBuild:
     - OVRSkeleton
     - OVRSkeletonRenderer
     PhotonUnityNetworking.Demos.dll:
-    - Photon.Pun.Demo.Asteroids.Asteroid
-    - Photon.Pun.Demo.Asteroids.Bullet
-    - Photon.Pun.Demo.Asteroids.Spaceship
     - Photon.Pun.Demo.PunBasics.CameraWork
     - Photon.Pun.Demo.PunBasics.PlayerAnimatorManager
     - Photon.Pun.Demo.PunBasics.PlayerManager
@@ -93,7 +90,6 @@ ScriptsOnlyBuild:
     - Photon.Pun.UtilityScripts.MoveByKeys
     PhotonUnityNetworking.dll:
     - Photon.Pun.PhotonAnimatorView
-    - Photon.Pun.PhotonRigidbodyView
     - Photon.Pun.PhotonTransformView
     - Photon.Pun.PhotonView
     - Photon.Pun.ServerSettings
@@ -292,8 +288,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14276}
     - Class: 114
-      Script: {instanceID: 14316}
-    - Class: 114
       Script: {instanceID: 14368}
     - Class: 114
       Script: {instanceID: 14382}
@@ -336,8 +330,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 15358}
     - Class: 114
-      Script: {instanceID: 15402}
-    - Class: 114
       Script: {instanceID: 15442}
     - Class: 114
       Script: {instanceID: 15474}
@@ -361,8 +353,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 15996}
     - Class: 114
       Script: {instanceID: 16022}
-    - Class: 114
-      Script: {instanceID: 16048}
     - Class: 114
       Script: {instanceID: 16156}
     - Class: 114
@@ -406,8 +396,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 17404}
     - Class: 114
-      Script: {instanceID: 17482}
-    - Class: 114
       Script: {instanceID: 17508}
     - Class: 114
       Script: {instanceID: 17526}
@@ -434,10 +422,6 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
-      Script: {instanceID: 0}
-    - Class: 198
-      Script: {instanceID: 0}
-    - Class: 199
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
@@ -5413,4 +5397,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/HandTest_Custom.unity
-  playerPath: /home/nicolo/FunzionanteCopia_official (copia 3)/Builds/buildRS.apk
+  playerPath: /home/nicolo/FunzionanteCopia_official (copia 3)/Builds/buildRS0.apk
